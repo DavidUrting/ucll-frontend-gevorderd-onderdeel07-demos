@@ -1,0 +1,24 @@
+{
+  "name": "onderdeel7-jquery-demos",
+  "version": "1.0.0",
+  "description": "jQuery demo's",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server & npm install & npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidUrting/ucll-frontend-gevorderd-onderdeel07-demos.git"
+  },
+  "keywords": [
+    "UCLL",
+    "onderdeel7",
+    "jQuery"
+  ],
+  "author": "DavidUrting",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DavidUrting/ucll-frontend-gevorderd-onderdeel07-demos/issues"
+  },
+  "homepage": "https://github.com/DavidUrting/ucll-frontend-gevorderd-onderdeel07-demos#readme"
+}
