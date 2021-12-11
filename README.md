@@ -1,8 +1,6 @@
 Zorg ervoor dat [Node](https://nodejs.org/en/download/) geïnstalleerd is.  
 
-# Uitvoeren met Express
-
-Voer onderstaand commando uit:
+Voer vervolgens onderstaand commando uit:  
 ```npm run start```
 
 Of je kan ook volgende procedure volgen:
@@ -10,4 +8,5 @@ Of je kan ook volgende procedure volgen:
 2. ```npm install```
 3. ```node app.js```
 
-Browse vervolgens naar http://localhost:3000.
+Browse vervolgens naar http://localhost:3000.  
+Van daaruit kan je alle jQuery demo's bekijken.
