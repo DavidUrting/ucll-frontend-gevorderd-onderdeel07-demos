@@ -1,0 +1,19 @@
+{
+  "name": "onderdeel7-jquery-demos-server",
+  "version": "1.0.0",
+  "description": "jQuery demo's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "UCLL",
+    "onderdeel7",
+    "jQuery"
+  ],
+  "author": "UCLL",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
