@@ -1,0 +1,12 @@
+div{
+	width:200px; 
+	height:100px; 
+	border: 1px solid black;
+}
+
+.ucll
+{
+	background-color:rgb(224, 0, 73);
+	color:white;
+	border-bottom: 40px solid rgb(0, 52, 105);
+}

@@ -1,0 +1,28 @@
+<html>
+<head>
+	<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script defer src="traversing.js"></script>
+</head>
+<body>
+	<div id="level1">
+		<div id="level2">
+			<ul id="level3">
+				<li id="li1">li 1</li>
+				<li id="li2">li 2</li>
+			</ul>
+		</div>
+		<ul id="level2-1">
+		   	   <li>li 3</li>
+		</ul>
+	</div>
+	<button id="parentBtn">li1 parent</button>
+	<button id="parentsBtn">li2 parents (until div)</button>
+	<button id="allParentsBtn">li2 parents</button>
+	<button id="divParentsBtn">li2 div parents</button><br><br>
+	<button id="childrenBtn">level1 children</button>
+	<button id="ulChildrenBtn">level1 ul children</button>
+	<button id="findUlBtn">level1 find ul's</button>
+	<button id="findAllBtn">level1 find all</button>
+</body>
+
+</html>

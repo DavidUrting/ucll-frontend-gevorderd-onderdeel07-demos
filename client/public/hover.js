@@ -1,0 +1,10 @@
+$(function(){
+	$("#source").hover(
+		function(){
+			$("#target").hide();
+		},
+		function(){
+			$("#target").show();
+		}
+	);
+});
